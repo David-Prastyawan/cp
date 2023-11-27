@@ -22,6 +22,7 @@ use App\Models\Kategori;
 use App\Models\Produk;
 use App\Models\User;
 
+
 class AdminController extends Controller
 {
     //
